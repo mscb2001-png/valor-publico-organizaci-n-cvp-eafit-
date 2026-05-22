@@ -6,7 +6,7 @@
 - **Asistentes:** 
 
 ## Orden del día
-1. 
+1. Visuallización sistema de gestión de información
 2. 
 
 ## Desarrollo
