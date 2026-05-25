@@ -6,36 +6,35 @@
 
 ## 📝 Descripción
 
-Apoyo a la Gobernación en el diseño y consolidación de esquemas asociativos territoriales (provincias, áreas metropolitanas, RAP).
+Propuesta de consultoría de Valor Público EAFIT a la Gobernación de Antioquia (enero 2025) para apoyar el fortalecimiento de esquemas asociativos territoriales en el departamento. El trabajo se divide en tres frentes: acompañar la formalización de los esquemas, apoyar la delegación de competencias e incentivos, y sistematizar la experiencia del Departamento de Planeación. La propuesta respalda su oferta con 15 años de experiencia en consultoría pública y proyectos previos con entidades como el Concejo de Medellín y la Federación Nacional de Departamentos.
 
----
+
 
 ## 🎯 Objetivos
 
-- Caracterizar los esquemas asociativos territoriales existentes.
-- Proponer modelos de gobernanza supramunicipal.
-- Acompañar técnicamente a la Gobernación.
+- Formalizar los esquemas asociativos territoriales mediante el acompañamiento en la elaboración de diagnósticos integrales, planes estratégicos y espacios de participación ciudadana conforme a la normativa vigente.
+- Fortalecer la gobernanza territorial apoyando la delegación de competencias diferenciadas e implementando incentivos departamentales que consoliden la asociatividad entre municipios.
+- Sistematizar y documentar la experiencia del Departamento Administrativo de Planeación en la implementación del modelo de gobernanza asociativa, para generar conocimiento replicable en Antioquia.
 
 ---
 
 ## 📊 Estado del proyecto
 
 - **Estado actual:** 🟡 En curso
-- **Fecha de inicio:** _por completar_
-- **Fecha estimada de cierre:** _por completar_
+- **Fecha de inicio:** 10/02/2026
+- **Fecha estimada de cierre:** 10/12/2026
 - **Avance estimado:** _%_
 
 > Actualiza este bloque cada vez que cambie el estado del proyecto.  
-> Estados posibles: 🟢 Finalizado · 🟡 En curso · 🟠 En pausa · 🔴 Cancelado
-
+> Estado: 🟡 En curso 
 ---
 
 ## 👥 Responsable(s)
 
 | Rol | Nombre | Correo |
 |-----|--------|--------|
-| Líder del proyecto | _por completar_ | _@eafit.edu.co_ |
-| Coordinador(a) | _por completar_ | _@eafit.edu.co_ |
+| Líder del proyecto | Santiago Leyva |sleyvabo@eafit.edu.co |
+| Coordinador(a) | Carlos Andrés Zuluaga | cazuluagar@eafit.edu.co |
 | Equipo de apoyo | _por completar_ | — |
 
 ---
