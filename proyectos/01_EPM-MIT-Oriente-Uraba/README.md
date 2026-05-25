@@ -6,15 +6,15 @@
 
 ## 📝 Descripción
 
-Proyecto en alianza con EPM y el MIT para el análisis y formulación de propuestas de desarrollo territorial en las subregiones del Oriente y Urabá antioqueño.
+Proyecto orientado al acompañamiento integral de EPM en la evaluación, actualización y formulación del Modelo de Integración Territorial (MIT) para las regiones de Urabá y Oriente Antioqueño, con el fin de fortalecer la relación entre la empresa y los territorios mediante estrategias de desarrollo sostenible, gobernanza, análisis territorial y generación de valor público.
 
 ---
 
 ## 🎯 Objetivos
 
-- Diagnosticar las dinámicas socioeconómicas del Oriente y Urabá.
-- Co-construir con EPM y MIT propuestas de intervención territorial.
-- Generar insumos técnicos para la toma de decisiones.
+- Evaluar y actualizar el Modelo de Integración Territorial (MIT) de Urabá para fortalecer su impacto, sostenibilidad y capacidad de generación de valor público en el territorio.
+- Formular el Modelo de Integración Territorial para el Oriente Antioqueño, orientando estratégicamente las inversiones y actuaciones de EPM hacia un desarrollo regional sostenible e inclusivo.
+- Diseñar herramientas de gobernanza, monitoreo, evaluación y prospectiva territorial que permitan mejorar la articulación entre EPM, las comunidades y los actores regionales.
 
 ---
 
