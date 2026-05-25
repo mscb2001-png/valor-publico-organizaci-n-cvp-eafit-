@@ -6,27 +6,27 @@
 
 ## 📝 Descripción
 
-Acompañamiento al municipio de Rionegro en la formulación, implementación y evaluación de políticas públicas locales.
+Proyecto de consultoría para la actualización de seis políticas públicas y la formulación de una política pública de primera infancia en el municipio de Rionegro, mediante metodologías participativas, análisis de datos y diseño basado en evidencia, con el fin de fortalecer la política social, la articulación institucional y la toma de decisiones públicas orientadas al bienestar de la ciudadanía.
 
 ---
 
 ## 🎯 Objetivos
 
-- Acompañar la formulación de políticas públicas locales.
-- Apoyar procesos participativos.
-- Evaluar resultados e impacto.
+- Actualizar seis políticas públicas del municipio de Rionegro para fortalecer su pertinencia, articulación institucional y capacidad de respuesta frente a las necesidades sociales actuales.
+- Diseñar e implementar una política pública de primera infancia basada en evidencia, participación comunitaria y enfoque territorial.
+- Consolidar una estrategia de datos y seguimiento que permita mejorar la planeación, evaluación y gestión de las políticas públicas del municipio.
 
 ---
 
 ## 📊 Estado del proyecto
 
 - **Estado actual:** 🟡 En curso
-- **Fecha de inicio:** _por completar_
-- **Fecha estimada de cierre:** _por completar_
-- **Avance estimado:** _%_
+- **Fecha de inicio:** 19/11/2025
+- **Fecha estimada de cierre:** 19/05/2026
+- **Avance estimado:** 100%
 
 > Actualiza este bloque cada vez que cambie el estado del proyecto.  
-> Estados posibles: 🟢 Finalizado · 🟡 En curso · 🟠 En pausa · 🔴 Cancelado
+> Estado: 🟢 Finalizado 
 
 ---
 
@@ -34,8 +34,8 @@ Acompañamiento al municipio de Rionegro en la formulación, implementación y e
 
 | Rol | Nombre | Correo |
 |-----|--------|--------|
-| Líder del proyecto | _por completar_ | _@eafit.edu.co_ |
-| Coordinador(a) | _por completar_ | _@eafit.edu.co_ |
+| Líder del proyecto | Santiago Leyva | sleyvabo@eafit.edu.co |
+| Coordinador(a) | Diana Mesa Correa | dmesa@cuxtomers.com |
 | Equipo de apoyo | _por completar_ | — |
 
 ---
