@@ -54,7 +54,7 @@ Proyecto de consultoría estratégica orientado a transformar la Agencia APP en 
 
 ## 🔗 Enlaces útiles
 
-- 📋 **Tablero Notion del proyecto:** _pegar enlace_
+- 📋 **Tablero del proyecto:** https://eafit-my.sharepoint.com/:x:/g/personal/mmsanchezc_eafit_edu_co/IQBweb0d6GxPTqc6TYKldk75AZQRTibFxHdz72Dhykz5vXk?e=0ZjkUa
 - 📅 **Calendario / cronograma:** _pegar enlace_
 - 📂 **Carpeta original (Drive / OneDrive):** _pegar enlace si aplica_
 
