@@ -6,27 +6,26 @@
 
 ## 📝 Descripción
 
-Proyecto con Ocensa orientado al análisis del entorno, relacionamiento territorial y generación de valor compartido en zonas de influencia.
-
+Proyecto orientado al fortalecimiento de capacidades institucionales y comunitarias en municipios del área de influencia de Ocensa, mediante procesos de formación, acompañamiento técnico y formulación de proyectos, con el fin de mejorar la gestión de expectativas frente a la operación de la empresa, la planeación territorial, la rendición de cuentas y el desarrollo local sostenible. 
 ---
 
 ## 🎯 Objetivos
 
-- Analizar el contexto territorial de las zonas de influencia.
-- Diseñar estrategias de relacionamiento y valor compartido.
-- Generar indicadores de seguimiento.
+- Fortalecer las capacidades de gobiernos locales, instituciones estatales y actores comunitarios para mejorar la gestión de expectativas frente a la operación empresarial y el diálogo territorial.
+- Acompañar a los municipios en la formulación de proyectos y estrategias de planeación territorial que impulsen el desarrollo local y el acceso a fuentes de financiación.
+- Promover procesos de transparencia, rendición de cuentas y sostenibilidad institucional mediante formación, acompañamiento técnico y fortalecimiento de redes de colaboración regional.
 
 ---
 
 ## 📊 Estado del proyecto
 
 - **Estado actual:** 🟡 En curso
-- **Fecha de inicio:** _por completar_
-- **Fecha estimada de cierre:** _por completar_
+- **Fecha de inicio:** 01/10/2025
+- **Fecha estimada de cierre:** 01/07/2028
 - **Avance estimado:** _%_
 
 > Actualiza este bloque cada vez que cambie el estado del proyecto.  
-> Estados posibles: 🟢 Finalizado · 🟡 En curso · 🟠 En pausa · 🔴 Cancelado
+> Estado: 🟡 En curso 
 
 ---
 
@@ -34,8 +33,8 @@ Proyecto con Ocensa orientado al análisis del entorno, relacionamiento territor
 
 | Rol | Nombre | Correo |
 |-----|--------|--------|
-| Líder del proyecto | _por completar_ | _@eafit.edu.co_ |
-| Coordinador(a) | _por completar_ | _@eafit.edu.co_ |
+| Líder del proyecto | Santiago Leyva |sleyvabo@eafit.edu.co |
+| Coordinador(a) | Estefanía Restrepo Arango  | erestrepa5@eafit.edu.co |
 | Equipo de apoyo | _por completar_ | — |
 
 ---
@@ -55,7 +54,7 @@ Proyecto con Ocensa orientado al análisis del entorno, relacionamiento territor
 
 ## 🔗 Enlaces útiles
 
-- 📋 **Tablero Notion del proyecto:** _pegar enlace_
+- 📋 **Tablero del proyecto:**(https://eafit-my.sharepoint.com/:x:/g/personal/mmsanchezc_eafit_edu_co/IQBweb0d6GxPTqc6TYKldk75AZQRTibFxHdz72Dhykz5vXk?e=yQLc0Z)
 - 📅 **Calendario / cronograma:** _pegar enlace_
 - 📂 **Carpeta original (Drive / OneDrive):** _pegar enlace si aplica_
 
