@@ -26,17 +26,16 @@ Proyecto en alianza con EPM y el MIT para el análisis y formulación de propues
 - **Avance estimado:** 35%
 
 > Actualiza este bloque cada vez que cambie el estado del proyecto.  
-> Estados posibles: 🟢 Finalizado · 🟡 En curso · 🟠 En pausa · 🔴 Cancelado
-
+> Estados: 🟡 En curso 
 ---
 
 ## 👥 Responsable(s)
 
 | Rol | Nombre | Correo |
 |-----|--------|--------|
-| Líder del proyecto | _por completar_ | _@eafit.edu.co_ |
-| Coordinador(a) | _por completar_ | _@eafit.edu.co_ |
-| Equipo de apoyo | _por completar_ | — |
+| Líder del proyecto | Santiago Leyva| sleyvabo@eafit.edu.co |
+| Coordinador(a) | Simón Perez | sperezl1@eafit.edu.co |
+| Equipo de apoyo | Piedad Patricia Restrepo| prestr14@eafit.edu.co |
 
 ---
 
@@ -55,9 +54,9 @@ Proyecto en alianza con EPM y el MIT para el análisis y formulación de propues
 
 ## 🔗 Enlaces útiles
 
-- 📋 **Tablero Notion del proyecto:** _pegar enlace_
+- 📋 **Tablero del proyecto:** https://eafit-my.sharepoint.com/:x:/g/personal/mmsanchezc_eafit_edu_co/IQBweb0d6GxPTqc6TYKldk75AZQRTibFxHdz72Dhykz5vXk?e=r9PQDc)
 - 📅 **Calendario / cronograma:** _pegar enlace_
-- 📂 **Carpeta original (Drive / OneDrive):** _pegar enlace si aplica_
+- 📂 **Carpeta original (Drive / OneDrive):** (https://eafit.sharepoint.com/:f:/s/ProyectoMIT-EPM/IgD5rqjprQ9YRKX2cz74I0t3AWfn5HiD5GIXQuKBP4B65Qc?e=q1OAtJ)
 
 ---
 
