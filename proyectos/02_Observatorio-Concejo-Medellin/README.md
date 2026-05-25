@@ -6,27 +6,28 @@
 
 ## 📝 Descripción
 
-Observatorio de seguimiento a la actividad del Concejo de Medellín: análisis de proyectos de acuerdo, debates y producción normativa.
+El proyecto, liderado por la Universidad EAFIT, corresponde a la Fase II de implementación del Observatorio del Concejo de Medellín. Busca activar líneas de análisis temático, generar informes estratégicos para los concejales, fortalecer alianzas con organizaciones sociales y poner en marcha un piloto de inteligencia artificial para el análisis de información pública. Además, incluye acompañamiento técnico y estrategias de comunicación para facilitar la apropiación y uso del Observatorio en los debates y decisiones de ciudad.
 
 ---
 
 ## 🎯 Objetivos
 
-- Monitorear la gestión del Concejo de Medellín.
-- Producir reportes periódicos de análisis normativo.
-- Promover transparencia y control social.
+- Fortalecer el funcionamiento del Observatorio Distrital del Concejo de Medellín mediante la activación de líneas de análisis estratégico y mecanismos de gobernanza temática.
+- Generar información técnica, rigurosa y oportuna para apoyar la toma de decisiones y el control político en la ciudad.
+- Impulsar la innovación y la articulación social del Observatorio mediante el uso de inteligencia artificial y alianzas con actores comunitarios y académicos.
+
 
 ---
 
 ## 📊 Estado del proyecto
 
 - **Estado actual:** 🟡 En curso
-- **Fecha de inicio:** _por completar_
-- **Fecha estimada de cierre:** _por completar_
-- **Avance estimado:** _%_
+- **Fecha de inicio:** 27/01/2026
+- **Fecha estimada de cierre:** 27/01/2027
+- **Avance estimado:** 12%
 
 > Actualiza este bloque cada vez que cambie el estado del proyecto.  
-> Estados posibles: 🟢 Finalizado · 🟡 En curso · 🟠 En pausa · 🔴 Cancelado
+> Estado: 🟡 En curso
 
 ---
 
@@ -34,8 +35,8 @@ Observatorio de seguimiento a la actividad del Concejo de Medellín: análisis d
 
 | Rol | Nombre | Correo |
 |-----|--------|--------|
-| Líder del proyecto | _por completar_ | _@eafit.edu.co_ |
-| Coordinador(a) | _por completar_ | _@eafit.edu.co_ |
+| Líder del proyecto | Santiago Leyva | sleyvabo@eafit.edu.co |
+| Coordinador(a) | Pablo Estrada Barreto | pestra5@eafit.edu.co |
 | Equipo de apoyo | _por completar_ | — |
 
 ---
@@ -55,7 +56,7 @@ Observatorio de seguimiento a la actividad del Concejo de Medellín: análisis d
 
 ## 🔗 Enlaces útiles
 
-- 📋 **Tablero Notion del proyecto:** _pegar enlace_
+- 📋 **Tablero del proyecto:** (https://eafit-my.sharepoint.com/:x:/g/personal/mmsanchezc_eafit_edu_co/IQBweb0d6GxPTqc6TYKldk75AZQRTibFxHdz72Dhykz5vXk?e=ep9pya)
 - 📅 **Calendario / cronograma:** _pegar enlace_
 - 📂 **Carpeta original (Drive / OneDrive):** _pegar enlace si aplica_
 
