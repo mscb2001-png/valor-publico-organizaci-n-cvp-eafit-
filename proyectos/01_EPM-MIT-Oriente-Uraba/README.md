@@ -21,9 +21,9 @@ Proyecto en alianza con EPM y el MIT para el análisis y formulación de propues
 ## 📊 Estado del proyecto
 
 - **Estado actual:** 🟡 En curso
-- **Fecha de inicio:** _por completar_
-- **Fecha estimada de cierre:** _por completar_
-- **Avance estimado:** _%_
+- **Fecha de inicio:** 05/02/2026
+- **Fecha estimada de cierre:** 31/12/2026
+- **Avance estimado:** 35%
 
 > Actualiza este bloque cada vez que cambie el estado del proyecto.  
 > Estados posibles: 🟢 Finalizado · 🟡 En curso · 🟠 En pausa · 🔴 Cancelado
