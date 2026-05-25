@@ -6,23 +6,22 @@
 
 ## 📝 Descripción
 
-Asesoría técnica para el fortalecimiento de las Asociaciones Público-Privadas (APP) como instrumento de desarrollo de infraestructura y servicios.
-
+Proyecto de consultoría estratégica orientado a transformar la Agencia APP en el gran fondo inmobiliario público de Medellín, mediante el análisis y priorización de los activos del Distrito, benchmarking nacional e internacional y la construcción de una hoja de ruta técnica, financiera y política que fortalezca la generación de valor público, sostenibilidad fiscal y desarrollo urbano para la ciudad.
 ---
 
 ## 🎯 Objetivos
 
-- Identificar buenas prácticas en APP.
-- Diseñar lineamientos para su fortalecimiento.
-- Capacitar a actores institucionales.
+- Diseñar una hoja de ruta estratégica que permita transformar la Agencia APP en un fondo inmobiliario público para Medellín, fortaleciendo la gestión y aprovechamiento de los activos del Distrito.
+- Identificar y adaptar buenas prácticas nacionales e internacionales en gestión inmobiliaria, gobernanza y monetización de activos para fortalecer el modelo de funcionamiento de la Agencia APP.
+- Construir herramientas técnicas, financieras y narrativas que permitan priorizar activos, generar valor público y consolidar la legitimidad política e institucional de la transformación de la Agencia APP.
 
 ---
 
 ## 📊 Estado del proyecto
 
 - **Estado actual:** 🟡 En curso
-- **Fecha de inicio:** _por completar_
-- **Fecha estimada de cierre:** _por completar_
+- **Fecha de inicio:** 06/02/2026
+- **Fecha estimada de cierre:** 30/04/2026
 - **Avance estimado:** _%_
 
 > Actualiza este bloque cada vez que cambie el estado del proyecto.  
@@ -34,8 +33,8 @@ Asesoría técnica para el fortalecimiento de las Asociaciones Público-Privadas
 
 | Rol | Nombre | Correo |
 |-----|--------|--------|
-| Líder del proyecto | _por completar_ | _@eafit.edu.co_ |
-| Coordinador(a) | _por completar_ | _@eafit.edu.co_ |
+| Líder del proyecto | Santiago Leyva| sleyvabo@eafit.edu.co |
+| Coordinador(a) | Diana Mesa Correa | dmesa@cuxtomers.com |
 | Equipo de apoyo | _por completar_ | — |
 
 ---
