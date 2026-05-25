@@ -56,7 +56,7 @@ Proyecto orientado al acompañamiento integral de EPM en la evaluación, actuali
 
 - 📋 **Tablero del proyecto:** https://eafit-my.sharepoint.com/:x:/g/personal/mmsanchezc_eafit_edu_co/IQBweb0d6GxPTqc6TYKldk75AZQRTibFxHdz72Dhykz5vXk?e=r9PQDc)
 - 📅 **Calendario / cronograma:** _pegar enlace_
-- 📂 **Carpeta original (Drive / OneDrive):** (https://eafit.sharepoint.com/:f:/s/ProyectoMIT-EPM/IgD5rqjprQ9YRKX2cz74I0t3AWfn5HiD5GIXQuKBP4B65Qc?e=q1OAtJ)
+- 📂 **Carpeta original (Drive / OneDrive):** ()
 
 ---
 
